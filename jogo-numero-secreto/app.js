@@ -13,7 +13,7 @@ function exibirTextoNaTela(tag, texto) {
     // Campo destinado para programar o responsive voice, para uma interação por audio com o usuário
     responsiveVoice.speak(texto, 'Brazilian Portuguese Female', {rate:1.2});
 }
-// Crianod função para exibir os textos iniciais
+// Criando função para exibir os textos iniciais
 function exibirMenssagemInicial() {
     exibirTextoNaTela('h1', 'Jogo do Número Secreto!');
     exibirTextoNaTela('p', 'Escolha um número de 1 a 10');
