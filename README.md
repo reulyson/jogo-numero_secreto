@@ -21,10 +21,10 @@ Este jogo foi desenvolvido durante uma aula de fundamentos básicos de JavaScrip
 ### Imagens
 1. Imagem inicial
 ![Imagem inicial](https://github.com/user-attachments/assets/56d01a91-7e70-455c-958d-3774071e7cb0)
-)
+
 2. Imagem de acerto
 ![Imagem de acerto](https://github.com/user-attachments/assets/e1100716-d575-420c-9f64-f6f04139ac3e)
-)
+
 ### Funções
 1. Responsavel por agilizar a impletação de textos nas tags. Acrescentamos uma interatividade por audio com o usuário atraves do Responsive Voice.
 ```javascript
